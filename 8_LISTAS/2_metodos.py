@@ -43,7 +43,7 @@ matriz[0][1] = 99
 
 print(matriz)
 
-matriz.pop(1) # exlcuindo a segunda sublista
+matriz.pop(1) # excluindo a segunda sublista
 
 print(matriz)
 
