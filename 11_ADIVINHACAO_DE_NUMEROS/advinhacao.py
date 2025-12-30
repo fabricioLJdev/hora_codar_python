@@ -6,8 +6,8 @@ import random
 
 def jogo_adivinhacao():
     print("BEM-Vindo ao Jogo de Advinhação")
-    print("Tente advinhar um número aleatório de 1 a 100")
-    print("É permitido no máximo 8 tentativas")
+    print("Tente advinhar um número aleatório de 1 a 100!")
+    print("São permitido no máximo 8 tentativas")
 
     # Gerar o numero aleatorio
     numero_secreto = random.randint(1, 100)
